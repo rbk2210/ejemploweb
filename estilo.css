@@ -1,0 +1,322 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    
+    width: auto;
+    height: 152px;
+    clear: both;
+    background-color: #3873df;
+}
+
+
+.logo {
+    
+    width: 800px;
+    height: 146px;
+    margin: 2px;
+    float: left;
+}
+
+.logotab {
+    
+    width: 160px;
+    height: 136px;
+}
+
+.esplogo {
+    
+    width: 160px;
+    height: 140px;
+    margin: 2px;
+    margin-left: 20px;
+    float: left;
+}
+
+.nombre {
+    
+    width: 610px;
+    height: 140px;
+    margin: 2px;
+    float: left;
+}
+
+.nombre h1 {
+    
+    margin-top: 15px;
+    font-size: 50px;
+}
+
+.nombre h2 {
+    
+    font-size: 25px;
+    font-family: sans-serif;
+    
+}
+
+
+.red {
+    
+    width: 260px;
+    height: 70px;
+    margin: 2px;
+    margin-left: 140px;
+    float: left;
+}
+
+.red a img {
+    
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.red a img:hover {
+    
+    height: 60px;
+    margin-top: 5px;
+}
+
+.naveleg {
+    
+    width: 436px;
+    height: 45px;
+    margin: 2px;
+    margin-top: 18px;
+    float: left;
+}
+
+
+.naveleg ul li {
+    
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.naveleg ul li a {
+    
+    font-size: 30px;
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    margin-left: 8px;
+    padding-left: 20px;
+}
+
+.naveleg ul li a:hover {
+    
+    margin-left: 18px;
+    color: #000;
+    background-color: #fff;
+    padding: 6px;
+    padding-left: 4px;
+    border-radius: 6px;
+}
+
+.fondocabezera {
+    
+    width: 1250;
+    height: 400px;
+    margin-left: 6px;
+    background-image: url(media/desenfocada.jpg);
+}
+
+
+
+.cabezera2 {
+    
+    width: 800px;
+    height: 400px;
+    margin-top: 0px;
+    background-image: url(media/04.jpg)
+}
+
+
+
+
+.cuerpo {
+    
+    width: 1250px;
+    height: 1400px;
+    border: 1px solid;
+    margin-left: 6px;
+    margin-top: 5px;
+    background-color: chocolate;
+}
+
+
+.pie {
+    
+    width: 1250px;
+    height: 500px;
+    margin-top: 5px;
+    margin-left: 6px;
+    border: 1px solid #fff;
+    background-color: #000;
+    
+}
+
+.links {
+    
+    width: 200px;
+    height: 350px;
+    margin-top: 40px;
+    margin-left: 10px;
+    padding: 2px;
+    float: left;
+}
+
+
+
+.links ul li {
+    
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+
+.seplateral {
+    width: 200px;
+    height: 2x;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+    background: #fff;
+    float: left;
+}
+
+.yut {
+    
+    height: 40px;
+    margin-top: 10px;
+}
+
+.fais {
+    
+    height: 40px;
+    margin-top: 10px;
+}
+
+.guat {
+    
+    height: 40px;
+    margin-top: 10px;
+}
+
+
+.paipal {
+    
+    height: 40px;
+    margin-top: 10px;
+}
+.links ul li a {
+    
+    
+    text-decoration: none;
+    color: #fff;
+    width: 30px;
+    margin-left: 5px;
+}
+
+.links ul li a:hover {
+    
+    font-size: 20px;
+    background-color: #fff;
+    margin-left: 10px;
+    padding: 10px;
+    color: #000;
+    border-radius: 8px;
+        
+}
+
+.texto {
+    
+    width: 650px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 10px;
+    float: left;
+}
+
+.texto center h1 {
+    
+    margin-top: 10px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.texto center p {
+    
+    margin-top: 10px;
+    color: #fff;
+}
+
+.quien {
+    width: 500px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 70px;
+    float: left;
+}
+
+
+.barrasep {
+    width: 2px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 65px;
+    border: 1px solid #fff;
+    background: #fff;
+    float: left;
+}
+
+.barrasep2 {
+    width: 2px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-bottom: 65px;
+    border: 1px solid #fff;
+    background: #fff;
+    float: left;
+}
+
+.qr {
+    
+    width: 300px;
+    height: 270px;
+    margin-top: 90px;
+    margin-left: 10px;
+    float: left;
+}
+
+
+
+.qr img {
+    
+    width: 260px;
+    height: 230px;
+    padding: 20px;
+}
+
+.derechos {
+    width: 1220px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    clear: both
+}
+
+.fotder {
+    
+    color: #fff;
